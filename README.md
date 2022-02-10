@@ -2,7 +2,7 @@
 # Music-Player
 Music player application built with HTML, CSS and vanilla JavaScript. 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](Screenshot.gif)
 
 
 ## Features
