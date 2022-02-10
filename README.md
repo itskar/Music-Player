@@ -6,7 +6,7 @@ Music player application built with HTML, CSS and vanilla JavaScript.
 
 
 ## Features
-* Plays songs in mp3 format pulled from a local directory. 
+* Plays songs in mp3 format pulled from a directory. 
 * The navigation bar can be used to pause, play, go to the next song or go to a previous song. 
 * Displays the cover art of the current song in a rotating vinyl format. 
 * Automatically plays the next song once the current song is completed. 
